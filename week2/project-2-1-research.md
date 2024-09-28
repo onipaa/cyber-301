@@ -21,7 +21,6 @@ Page 56 (review and glossary of terms) VIP page. Most of this module was about
 
 **Blue Team** A penetration testing team that monitors for Red Team attacks and shores up defenses as necessary.
 
-
 ## Module 3
 
 ## Module 4 (partial)

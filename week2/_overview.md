@@ -30,3 +30,19 @@ Please study the following pages of the textbook:
     - [x] Reflection paper
     - [ ] Two reading quizzes (Module 2 and Module 3)
     - [x] Hands-On Project
+
+## Project Work
+[Project 2-1](project-2-1-answers.md)
+    [Project 2-1 Research](project-2-1-research.md)
+    [Project 2-1 CVE Description](project-2-1-cve-description.md)
+    [Project 2-1 CVE Screenshot]()
+
+[Project 2-2]()
+
+[Project 2-3]()
+
+[Project 2-4]()
+
+[Project 2-5]()
+
+[Project 2-6]()

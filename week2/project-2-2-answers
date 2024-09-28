@@ -1,20 +1,6 @@
 # References for Questions Asked:
 Ciampa, Mark. CompTIA Security+ Guide to Network Security Fundamentals. Available from: Brigham Young University - Idaho, (7th Edition). Cengage Learning US, 2020.
 ---
-# Project 2-1 Activities and Questions:
-## Step 4
-This page gives a brief overview of CVE. Read through the information regarding CVE. In your own words, how would you describe it? How does it work? What advantages does it provide?
-
-The "about CVE" page states the organization's mission, also known as Common Vulnerabilities and Exposures. It also has several podcasts that give an overview, value, and how to become CNA certified. It also describes the governing group, the Council of Roots.
-
-
-## Step 7
-Scroll down to CVE Entries. Describe the three elements that make up a CVE Entry.
-
-I described all of the elements that I thought were important. There were six instead of three. See the "project-2-1.md" markdown.
-
-[project 2-1 markdown file](project-2-1-cve-description)
-
 # Project 2-2 Activities and Questions:
 ## Step 5:
 Read through the material. In your own words, how does the Mitre CVE compare with the NIST NVD? When would you use the CVE? When would you use the NVD? How frequently is the NVD updated? Is this often enough?
@@ -33,10 +19,3 @@ Return to the NVD Visualizations page. Click Products – CPE. Which vendor has 
 
 Ah! Hah! There is a graph I can delve into. CISCO has 33,659 known vulnerabilities. This graph doesn't show that CISCO is lazy or careless in its software releases. On the other hand, I know they are a trusted vendor; however, hackers attack them much more than Schneider-Electric, which hovers around 
 2620 vulnerabilities. Cisco is also a large company with many products. Attack surface size and usage are likely why Cisco has so many vulnerabilities.
-
-# Project 2-3 Activities and Questions:
-
-# Project 2-4 Activities and Questions:
-# Project 2-5 Activities and Questions:
-# Project 2-6 Activities and Questions:
-
