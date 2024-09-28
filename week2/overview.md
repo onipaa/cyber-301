@@ -1,7 +1,7 @@
 # W02 Overview: parts of Modules 2, 3, and 4
 
 ## Overview
-- [ ] Task: Complete the reading.
+- [.] Task: Complete the reading.
     Purpose: Become familiar with the outcomes for this week.
     For our second week, we maintain our accelerated pace of study.
 
@@ -27,6 +27,6 @@ Please study the following pages of the textbook:
 
 ### Assignments
 - During this week, complete the following tasks to earn points toward your course grade:
-    - [ ] Reflection paper
+    - [x] Reflection paper
     - [ ] Two reading quizzes (Module 2 and Module 3)
-    - [ ] Hands-On Project
+    - [x] Hands-On Project
