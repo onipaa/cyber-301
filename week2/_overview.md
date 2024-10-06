@@ -29,20 +29,21 @@ Please study the following pages of the textbook:
 - During this week, complete the following tasks to earn points toward your course grade:
     - [x] Reflection paper
     - [ ] Two reading quizzes (Module 2 and Module 3)
-    - [x] Hands-On Project
+    - [x] Hands-On Project (pick one, I did two 2-1 and 2-2)
+
+### Organization
+I'm using git markdown as my note taking and answers because it allows me to
+easily hyperlink between my notes and my project work. I use markdown every day
+in my regular work. The only thing I don't have is grammar and spelling checking
+but I can get around that.
 
 ## Project Work
-[Project 2-1](project-2-1-answers.md)
-    [Project 2-1 Research](project-2-1-research.md)
-    [Project 2-1 CVE Description](project-2-1-cve-description.md)
-    [Project 2-1 CVE Screenshot]()
+[Project 2-1 Answers](project-2-1-answers.md)
 
-[Project 2-2]()
+- [Project 2-1 Research](project-2-1-research.md)
 
-[Project 2-3]()
+- [Project 2-1 CVE Description](project-2-1-cve-description.md)
 
-[Project 2-4]()
+- [Project 2-1 CVE Screenshot](project-2-1-cve-elements.pdf)
 
-[Project 2-5]()
-
-[Project 2-6]()
+[Project 2-2-Answers](project-2-2-answers.md)

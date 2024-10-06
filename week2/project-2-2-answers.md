@@ -19,3 +19,5 @@ Return to the NVD Visualizations page. Click Products – CPE. Which vendor has 
 
 Ah! Hah! There is a graph I can delve into. CISCO has 33,659 known vulnerabilities. This graph doesn't show that CISCO is lazy or careless in its software releases. On the other hand, I know they are a trusted vendor; however, hackers attack them much more than Schneider-Electric, which hovers around 
 2620 vulnerabilities. Cisco is also a large company with many products. Attack surface size and usage are likely why Cisco has so many vulnerabilities.
+
+[Back to Index](_overview.md)
