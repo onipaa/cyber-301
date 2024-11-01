@@ -25,10 +25,10 @@ One of the most critical failures in the Target breach was the lack of response 
 
 - **Network Traffic Anomalies**: There were also warnings about unusual traffic leaving the network, including sensitive customer information being exfiltrated to attacker-controlled servers. These warnings were not acted upon in a timely manner.
 
-### 4. **Data Exfiltration**
+### 4. **Data Exfiltration (What Was the Cost to Consumers)**
 The attackers managed to steal **40 million credit and debit card numbers** over a period of several weeks during the holiday shopping season. In addition, the personal information of 70 million customers, including names, addresses, and phone numbers, was compromised.
 
-### 5. **Aftermath and Lessons Learned**
+### 5. **Aftermath and Lessons Learned (What Was the Cost to Target)**
 - **Target's Response**: Once the breach was publicly revealed, Target faced significant backlash, leading to a loss of customer trust and substantial financial costs, including over $200 million in expenses related to the breach. CEO Gregg Steinhafel resigned as a result.
 
 - **Cybersecurity Improvements**: Target invested heavily in improving its security posture post-breach. The company overhauled its network segmentation, enhanced its threat detection capabilities, and implemented the use of **EMV chip cards**, which provide better security against fraud.
